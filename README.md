@@ -1,2 +1,2 @@
-# ngentotkesakitan
-ngentotkesakitan
+[ngentotkesakitan](https://ngentotkesakitan.pages.dev/)
+Fork the [repository](https://github.com/jojtoview) on GitHub.
