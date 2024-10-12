@@ -1,0 +1,2 @@
+# ngentotkesakitan
+ngentotkesakitan
